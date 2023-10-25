@@ -1,5 +1,5 @@
 # you2loader 
-## A simple Python GUI application for downloading YouTube videos
+## A simple Windows GUI application for downloading YouTube videos
 
 ### Screenshots:
 ![Startscreen](screenshots/startscreen.png)
